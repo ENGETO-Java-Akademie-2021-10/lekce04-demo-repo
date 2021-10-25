@@ -6,6 +6,8 @@
 
 - Odrážky
 
+![Obrázek z internetu](obrazek.png)
+
 1. číslované odrážky
 1. druhá číslovaná odrážka
 
