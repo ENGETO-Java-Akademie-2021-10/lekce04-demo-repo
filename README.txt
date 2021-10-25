@@ -6,6 +6,8 @@
 
 - Odrážky
 
+![Obrázek z internetu](obrazek.png)
+
 Syntaxe Markdownu: https://www.markdownguide.org/basic-syntax
 
 Přidaný řádek
