@@ -1,2 +1,7 @@
 *.dat
 out/
+
+# Pro Javu:
+**/.idea/
+**/out/
+**/*.iml
